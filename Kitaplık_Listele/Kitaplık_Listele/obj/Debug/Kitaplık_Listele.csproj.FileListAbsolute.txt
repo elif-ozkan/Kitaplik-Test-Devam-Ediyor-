@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\bin\Debug\Kitaplık_Listele.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\bin\Debug\Kitaplık_Listele.exe
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\bin\Debug\Kitaplık_Listele.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.exe
+C:\Users\elifo\Desktop\PROJELERİM\Kitaplık_Listele\Kitaplık_Listele\obj\Debug\Kitaplık_Listele.pdb

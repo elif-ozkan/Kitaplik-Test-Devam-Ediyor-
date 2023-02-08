@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplık_Listele", "Kitaplık_Listele\Kitaplık_Listele.csproj", "{45662989-045A-4861-A5F1-9E9B40D2447F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45662989-045A-4861-A5F1-9E9B40D2447F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45662989-045A-4861-A5F1-9E9B40D2447F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45662989-045A-4861-A5F1-9E9B40D2447F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45662989-045A-4861-A5F1-9E9B40D2447F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE281C37-76AD-4B6C-AD36-54644D463741}
+	EndGlobalSection
+EndGlobal
